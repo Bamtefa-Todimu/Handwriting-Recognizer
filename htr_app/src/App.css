@@ -1,0 +1,8 @@
+.app-wrapper
+{
+  max-width: 1920px;
+  margin: 0 auto;
+  position: relative;
+  background-color: rgb(18, 20, 24);
+  color: #ffffff;
+}

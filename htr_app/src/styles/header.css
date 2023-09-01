@@ -1,0 +1,36 @@
+.header-wrapper{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 8rem;
+    /* background-color: white; */
+    color: #ffffff;
+    /* border-bottom: 2px solid red; */
+}
+
+.logo{
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.links-section{
+    display: flex;
+    gap: 2rem;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: #696d70;
+    /* align-items: center; */
+    
+}
+
+
+.logout-section
+{
+    padding: 0.7rem 1.5rem;
+    border-radius: 8px;
+    background-color: rgb(21, 24, 33);
+    /* background-color: rgb(59, 58, 58); */
+    cursor: pointer;
+}
